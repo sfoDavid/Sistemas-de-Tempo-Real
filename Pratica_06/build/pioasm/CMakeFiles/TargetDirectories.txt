@@ -1,0 +1,7 @@
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm/CMakeFiles/pioasm.dir
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm/CMakeFiles/edit_cache.dir
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm/CMakeFiles/list_install_components.dir
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm/CMakeFiles/install.dir
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm/CMakeFiles/install/local.dir
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm/CMakeFiles/install/strip.dir

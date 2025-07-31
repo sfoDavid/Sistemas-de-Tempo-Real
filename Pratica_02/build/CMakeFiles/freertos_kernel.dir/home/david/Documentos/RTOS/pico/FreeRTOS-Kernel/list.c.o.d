@@ -1,0 +1,32 @@
+CMakeFiles/freertos_kernel.dir/home/david/Documentos/RTOS/pico/FreeRTOS-Kernel/list.c.o: \
+ /home/david/Documentos/RTOS/pico/FreeRTOS-Kernel/list.c \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdlib.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/ieeefp.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_ansi.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/newlib.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/config.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/features.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/reent.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_ansi.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_types.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_types.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/lock.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/cdefs.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/stdlib.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/alloca.h \
+ /home/david/Documentos/RTOS/pico/FreeRTOS-Kernel/include/FreeRTOS.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_intsup.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_stdint.h \
+ /home/david/Documentos/Disciplinas/RTS/Pratica_02/inc/FreeRTOSConfig.h \
+ /home/david/lab/toolchain/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/assert.h \
+ /home/david/Documentos/RTOS/pico/FreeRTOS-Kernel/include/projdefs.h \
+ /home/david/Documentos/RTOS/pico/FreeRTOS-Kernel/include/portable.h \
+ /home/david/Documentos/RTOS/pico/FreeRTOS-Kernel/include/deprecated_definitions.h \
+ /home/david/Documentos/RTOS/pico/FreeRTOS-Kernel/portable/GCC/ARM_CM0/portmacro.h \
+ /home/david/Documentos/RTOS/pico/FreeRTOS-Kernel/include/mpu_wrappers.h \
+ /home/david/Documentos/RTOS/pico/FreeRTOS-Kernel/include/list.h

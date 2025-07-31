@@ -1,0 +1,7 @@
+/home/david/Documentos/Disciplinas/RTS/Pratica_05/build/_deps/picotool/picotool
+/home/david/Documentos/Disciplinas/RTS/Pratica_05/build/_deps/picotool/picotoolTargets.cmake
+/home/david/Documentos/Disciplinas/RTS/Pratica_05/build/_deps/picotool/picotoolTargets-release.cmake
+/home/david/Documentos/Disciplinas/RTS/Pratica_05/build/_deps/picotool/picotoolConfig.cmake
+/home/david/Documentos/Disciplinas/RTS/Pratica_05/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/david/Documentos/Disciplinas/RTS/Pratica_05/build/_deps/picotool/enc_bootloader.elf
+/home/david/Documentos/Disciplinas/RTS/Pratica_05/build/_deps/picotool/enc_bootloader_mbedtls.elf

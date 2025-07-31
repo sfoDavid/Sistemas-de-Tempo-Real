@@ -1,0 +1,2 @@
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/_deps/picotool-build/enc_bootloader/CMakeFiles/edit_cache.dir
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/_deps/picotool-build/enc_bootloader/CMakeFiles/rebuild_cache.dir

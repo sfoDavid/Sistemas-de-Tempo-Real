@@ -1,0 +1,5 @@
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm-install/pioasm/pioasm
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/david/Documentos/Disciplinas/RTS/Pratica_06/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
